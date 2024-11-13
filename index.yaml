@@ -9,6 +9,6 @@ entries:
     name: helm-guestbook
     type: application
     urls:
-    - https://github.com/aagirre/helm-charts/helm-guestbook-0.1.0.tgz
+    - https://aagirre.github.io/helm-charts/helm-guestbook-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-13T12:06:10.267763905Z"
