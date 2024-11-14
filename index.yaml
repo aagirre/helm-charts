@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  helm-empty-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T08:34:32.568192901Z"
+    description: A Helm chart for Kubernetes
+    digest: 96b16be7d4c0afd9893854d1624779a6d53a9a28ec22be41c9ccf1926d85476c
+    name: helm-empty-chart
+    type: application
+    urls:
+    - https://aagirre.github.io/helm-charts/helm-empty-chart-0.1.0.tgz
+    version: 0.1.0
   helm-guestbook:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-11-13T12:06:10.26899239Z"
+    created: "2024-11-14T08:34:32.579934362Z"
     description: A Helm chart for Kubernetes
     digest: fb028a87f43ea2cb02d81ed8d3451688ebfbd9b241da07ed2adfc8502377ccfd
     name: helm-guestbook
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://aagirre.github.io/helm-charts/helm-guestbook-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-13T12:06:10.267763905Z"
+generated: "2024-11-14T08:34:32.558533629Z"
